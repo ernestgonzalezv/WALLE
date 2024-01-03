@@ -1,0 +1,3 @@
+cd Walle
+
+dotnet run
